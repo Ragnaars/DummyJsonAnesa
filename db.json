@@ -3,7 +3,7 @@
         {
             "id":1,
             "compania": "Latam",
-            "fechaVuelo": "10-10-2022",
+            "fechaVuelo": "2022-09-12",
             "horaVuelo": "10:00",
             "vuelo": "LA123",
             "destino": "CDMX",
@@ -49,7 +49,7 @@
         {
             "id":3,
             "compania": "Volaris",
-            "fechaVuelo": "10-10-2022",
+            "fechaVuelo": "2022-10-10",
             "horaVuelo": "13:01",
             "vuelo": "VO123",
             "destino": "CDMX",
@@ -72,7 +72,7 @@
         {
             "id":4,
             "compania": "Interjet",
-            "fechaVuelo": "10-10-2021",
+            "fechaVuelo": "2021-04-12",
             "horaVuelo": "20:02",
             "vuelo": "IJ123",
             "destino": "CDMX",
@@ -95,7 +95,7 @@
         {   
             "id":5,
             "compania": "Viva Aerobus",
-            "fechaVuelo": "10-10-2022",
+            "fechaVuelo": "2024-06-14",
             "horaVuelo": "10:00",
             "vuelo": "VA123",
             "destino": "CDMX",
@@ -118,7 +118,7 @@
         {
             "id":6,
             "compania": "Aeromar",
-            "fechaVuelo": "10-10-2022",
+            "fechaVuelo": "2022-10-10",
             "horaVuelo": "10:00",
             "vuelo": "AR123",
             "destino": "CDMX",
@@ -187,7 +187,7 @@
         {
             "id":9,
             "compania": "Latam",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2021-12-12",
             "horaVuelo": "11:00",
             "vuelo": "LA124",
             "destino": "MEX",
@@ -210,7 +210,7 @@
         {
             "id":10,
             "compania": "Aeromexico",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2023-12-30",
             "horaVuelo": "11:00",
             "vuelo": "AM124",
             "destino": "MEX",
@@ -233,7 +233,7 @@
         {
             "id":11,
             "compania": "Volaris",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2022-12-30",
             "horaVuelo": "11:01 AM",
             "vuelo": "VO124",
             "destino": "MEX",
@@ -256,7 +256,7 @@
         {
             "id":12,
             "compania": "Interjet",
-            "fechaVuelo": "11-11-2021",
+            "fechaVuelo": "2021-01-01",
             "horaVuelo": "11:02 AM",
             "vuelo": "IJ124",
             "destino": "MEX",
@@ -279,7 +279,7 @@
         {
             "id":13,
             "compania": "Viva Aerobus",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2020-09-23",
             "horaVuelo": "11:00",
             "vuelo": "VA124",
             "destino": "MEX",
@@ -302,7 +302,7 @@
         {
             "id":14,
             "compania": "Aeromar",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2021-11-03",
             "horaVuelo": "11:00 AM",
             "vuelo": "AR124",
             "destino": "MEX",
@@ -325,7 +325,7 @@
         {
             "id":15,
             "compania": "Aeromexico",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2024-02-20",
             "horaVuelo": "11:00",
             "vuelo": "AM125",
             "destino": "MEX",
@@ -348,7 +348,7 @@
         {
             "id":16,
             "compania": "Volaris",
-            "fechaVuelo": "11-11-2022",
+            "fechaVuelo": "2022-12-11",
             "horaVuelo": "11:01",
             "vuelo": "VO125",
             "destino": "MEX",
